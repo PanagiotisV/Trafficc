@@ -1,0 +1,12 @@
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\bin\Debug\Traffic.exe
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\bin\Debug\Traffic.pdb
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.csprojResolveAssemblyReference.cache
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.Red.resources
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.Properties.Resources.resources
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.csproj.GenerateResource.Cache
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.exe
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.pdb
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.Form2.resources
+C:\Users\Παναγιώτης.DESKTOP-SU043G5\Desktop\Traffic\Traffic\obj\Debug\Traffic.Form3.resources
